@@ -1,6 +1,7 @@
 import TopBar from './components/TopBar';
 import Hero from './components/Hero';
 import Widgets from './components/Widgets';
+import MarketGlobe from './components/MarketGlobe';
 import FinBot from './components/FinBot';
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <main>
         <Hero />
         <Widgets />
+        <MarketGlobe />
         <FinBot />
       </main>
 

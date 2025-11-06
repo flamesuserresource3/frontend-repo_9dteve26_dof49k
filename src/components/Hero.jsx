@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <section className="relative h-[80vh] w-full" aria-label="Cinematic hero">
       <div className="absolute inset-0">
-        <Spline scene="https://prod.spline.design/44zrIZf-iQZhbQNQ/scene.splinecode" style={{ width: '100%', height: '100%' }} />
+        <Spline scene="https://prod.spline.design/hGDm7Foxug7C6E8s/scene.splinecode" style={{ width: '100%', height: '100%' }} />
       </div>
 
       <div className="relative z-10 h-full flex items-center">

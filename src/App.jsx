@@ -2,7 +2,6 @@ import TopBar from './components/TopBar';
 import Hero from './components/Hero';
 import Widgets from './components/Widgets';
 import MarketGlobe from './components/MarketGlobe';
-import FinBot from './components/FinBot';
 
 function App() {
   return (
@@ -13,7 +12,6 @@ function App() {
         <Hero />
         <Widgets />
         <MarketGlobe />
-        <FinBot />
       </main>
 
       <footer className="mt-16 py-10 text-center text-white/50">

@@ -3,12 +3,12 @@
 > vite
 
 
-  VITE v5.4.20  ready in 263 ms
+  VITE v5.4.20  ready in 280 ms
 
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.20.14.23:3000/
-5:53:07 AM [vite] Pre-transform error: Failed to resolve import "three" from "src/components/MarketGlobe.jsx". Does the file exist?
-5:53:08 AM [vite] Internal server error: Failed to resolve import "three" from "src/components/MarketGlobe.jsx". Does the file exist?
+5:55:03 AM [vite] Pre-transform error: Failed to resolve import "three" from "src/components/MarketGlobe.jsx". Does the file exist?
+5:55:05 AM [vite] Internal server error: Failed to resolve import "three" from "src/components/MarketGlobe.jsx". Does the file exist?
   Plugin: vite:import-analysis
   File: /home/workspace/src/components/MarketGlobe.jsx:2:23
   1  |  import { jsxDEV } from "react/jsx-dev-runtime";

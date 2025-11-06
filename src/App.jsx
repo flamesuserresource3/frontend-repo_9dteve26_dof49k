@@ -2,16 +2,18 @@ import TopBar from './components/TopBar';
 import Hero from './components/Hero';
 import Widgets from './components/Widgets';
 import MarketGlobe from './components/MarketGlobe';
+import FinBot from './components/FinBot';
 
 function App() {
   return (
     <div className="min-h-screen bg-black text-white">
       <TopBar />
 
-      <main className="pt-28">{/* account for fixed top bar height */}
+      <main className="relative z-10 pt-28">
         <Hero />
         <Widgets />
         <MarketGlobe />
+        <FinBot />
       </main>
 
       <footer className="mt-16 py-10 text-center text-white/50">
